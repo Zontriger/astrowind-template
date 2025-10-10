@@ -16,6 +16,7 @@
   "dependencies": {
     "@astrojs/tailwind": "^6.0.2",
     "astro": "^5.14.4",
+    "axios": "^1.12.2",
     "dotenv": "^17.2.3"
   }
 }
