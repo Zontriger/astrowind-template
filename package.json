@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "astrowind-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,10 +14,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.14",
     "astro": "^5.14.4",
     "axios": "^1.12.2",
-    "dotenv": "^17.2.3",
+    "@tailwindcss/vite": "^4.1.14",
     "tailwindcss": "^4.1.14"
   }
 }
